@@ -1,0 +1,13 @@
+{
+    "name": "sense/finder",
+    "description": "Finder done right.",
+
+    "require": {
+    },
+
+    "autoload": {
+        "psr-0": {
+            "sense\\": "src"
+        }
+    }
+}
